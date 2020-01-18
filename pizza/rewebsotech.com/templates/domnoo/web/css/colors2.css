@@ -1,0 +1,169 @@
+.top-h,
+.slider1 .number-block .text-stl3,
+.special-offer-block .nav>li>span.active,
+.special-offer-block .nav>li>a:hover,
+.block-stl2 .text-block p span,
+.block-stl3 .top-h,
+.btn3:hover,
+.deal-of-day .block-stl2 .btn1.stl2:hover,
+.filter-tabnav ol.filter-nav li.active,
+.list-grid-btns .btn.active,
+.filter-tabnav input[type="radio"]:checked + .label-text:before,
+.filter-tabnav input[type="radio"]:checked + .label-text,
+.limited-deal .text-block-stl1 .title .top-h,
+.limited-deal .nav-pills>li>a span,
+.block-stl5 .text-block p.price span,
+.cart-tbl thead th,
+.block-stl12 ul li i,
+.block-stl13 .btn1:hover,
+.block-stl14:hover h5,
+.vid-block .ovl .video i:before,
+.bg-single .image-holder i:before,
+.image-hadding2 li:hover a,
+.comment-new  i:before ,
+.comment-new a,
+.about li a:hover,
+.leave-reply .form-group button.btn1:hover,
+.nws:hover>p,
+.image-hadding1:hover i:before,
+.special-offer-block .nav .filterer.active-btn span,
+.block-stl2 .btn1.stl2:hover,
+a.link:hover,
+.image-hadding p>a:hover,
+.block-stl11:hover i:before,
+.block-stl8:hover .txt-block i:before,
+.block-stl8:hover .txt-block h5,
+.loc-cop-sum .btn1.stl2:hover,
+.blog-info-nav li a i:before,
+.slider2 .text-block-stl1 .title .top-h,
+.home2 .location-block i:before,
+.btn1.stl2:hover,
+.combopack-offer .text-block-stl1 .title .top-h,
+.theme-menu button.btn:active {
+    color: #f1b601;   
+}
+
+
+
+.btn2,
+.main-nav,
+.btn1.stl2,
+.btn1.stl1:hover,
+.special-offer-block .nav>li>.tab-a:hover:before,
+.special-offer-block .owl-nav .owl-next:hover i:before,
+.special-offer-block .owl-nav .owl-prev:hover i:before,
+.special-offer-block .nav>li>span.active:before,
+.btn3,
+.deal-of-day .owl-nav .owl-next:hover,
+.deal-of-day .owl-nav .owl-prev:hover,
+.btn4:hover,
+.copy-right,
+.filter-tabnav .button-group li span:before,
+.btn1.stl3:hover,
+.block-stl10 .btn5:hover,
+.block-stl11 i:before,
+.block-stl14 .img-holder .overlay:before,
+.great-thankful .img-holder:hover:before,
+.tags li a:hover,
+.special-offer-block .nav .filterer.active-btn span:before,
+.special-offer-block .nav .filterer span:before,
+.deal-of-day .dsCountDown.ds-white,
+.dsCountDown .ds-element-days, .dsCountDown .ds-element-minutes,
+.dsCountDown .ds-element-hours, .dsCountDown .ds-element-seconds,
+.block-stl11:hover,
+.item-slider2 .owl-nav .owl-prev:hover, 
+.item-slider2 .owl-nav .owl-next:hover,
+.review_slider .owl-nav .owl-next:hover,
+.review_slider .owl-nav .owl-prev:hover,
+.history_slider .owl-nav .owl-next, .history_slider .owl-nav .owl-prev,
+.history_slider .owl-nav .owl-next:hover,.history_slider .owl-nav .owl-prev:hover,
+.home2 .nav-right-block ul li .cart-block,
+.this-month-blog .owl-nav .owl-next:hover,
+.this-month-blog .owl-nav .owl-prev:hover,
+.block-stl4 i:before,
+.fl-btn:before,
+.pegination-block .pagination>li>a:hover,
+.home2.main-nav .nav ul li.active:before,
+.home2.main-nav .nav ul li:before,
+.bg-single .image-holder li:hover a,
+.blog-pagination .pagination li a:hover,
+.blog-info-nav li a:hover,
+.slick_next.slick-arrow:hover,
+.slick_prev.slick-arrow:hover,
+.fastive-season .owl-nav .owl-next:hover,
+.fastive-season .owl-nav .owl-prev:hover,
+.main-nav .nav ul li.drop>.drop-down>li>a:hover,
+.theme-menu button.btn,
+.go-to-top {
+	background: #f1b601;
+}
+
+
+.btn1.stl2,
+.btn1.stl1:hover,
+.btn3,
+.deal-of-day .block-stl2 .btn1.stl2:hover,
+.btn4:hover,
+.block-stl2:hover,
+.limited-deal .nav-pills>li.active>a .img-holder,
+.btn1.stl3:hover,
+.block-stl13 .btn1:hover,
+.leave-reply .form-group button.btn1,
+.block-stl2 .btn1.stl2:hover,
+.item-slider2 .owl-nav .owl-prev:hover, 
+.item-slider2 .owl-nav .owl-next:hover,
+.review_slider .owl-nav .owl-next:hover,
+.review_slider .owl-nav .owl-prev:hover,
+.block-stl8:hover,
+.loc-cop-sum .btn1.stl2:hover,
+.btn1.stl2:hover,
+.this-month-blog .owl-nav .owl-next:hover,
+.this-month-blog .owl-nav .owl-prev:hover,
+.pegination-block .pagination>li>a:hover,
+.blog-pagination .pagination li a:hover,
+.slick_next.slick-arrow:hover,
+.slick_prev.slick-arrow:hover,
+.fastive-season .owl-nav .owl-next:hover,
+.fastive-season .owl-nav .owl-prev:hover,
+.bg-single-neww .owl-nav .owl-prev:hover,
+.bg-single-neww .owl-nav .owl-next:hover {
+	border-color: #f1b601;
+}
+
+.main-nav.home2 {
+	background: rgba(241, 182, 1, 0.2);
+}
+.main-nav .nav-right-block {
+	background: #fabf0b;
+}
+.main-nav:before {
+	background: url(../images/brd_2.png);
+}
+.main-nav .nav-right-block:before {
+	background: url(../images/brd2_2.png);	
+}
+/*bg color shades*/
+.bg1 {
+	background:  #f1b601;
+}
+.bg2 {
+	background: #f0b90f;
+}
+.bg3 {
+	background: #f1bd1b;
+}
+.bg4 {
+	background: #f5c328;
+}
+.bg5 {
+	background: #f8c833;
+}
+.bg6 {
+	background: #facc3e;
+}
+.bg7 {
+	background: #ffd249
+}
+.bg8 {
+	background: #ff3759;
+}

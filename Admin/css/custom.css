@@ -1,0 +1,14 @@
+/* your styles go here */
+
+/*@media only screen and (max-width: 320px) 
+{
+	#table{
+		display: block !important;
+	    width: 100% !important;
+	    overflow-x: unset !important;
+	}
+}*/
+
+.table td, .table th {
+    padding: 8px;
+}

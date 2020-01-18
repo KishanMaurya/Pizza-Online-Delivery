@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Nov 2019 15:18:57 at http://rewebsotech.com/templates/domnoo/web/home.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://rewebsotech.com/templates/domnoo/web/home.html -O1 "C:\My Web Sites\pizza" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:26:11	Warning: 	Retry after error 409 (Conflict) at link rewebsotech.com/templates/domnoo/web/contact.html (from rewebsotech.com/templates/domnoo/web/home.html)
+15:26:23	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/fonts/glyphicons-halflings-regular.eot (from rewebsotech.com/templates/domnoo/web/css/bootstrap.min.css)
+15:26:23	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/fonts/glyphicons-halflings-regular.eot? (from rewebsotech.com/templates/domnoo/web/css/bootstrap.min.css)
+15:26:23	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/fonts/glyphicons-halflings-regular.woff2 (from rewebsotech.com/templates/domnoo/web/css/bootstrap.min.css)
+15:26:23	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/fonts/glyphicons-halflings-regular.woff (from rewebsotech.com/templates/domnoo/web/css/bootstrap.min.css)
+15:26:23	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/fonts/glyphicons-halflings-regular.ttf (from rewebsotech.com/templates/domnoo/web/css/bootstrap.min.css)
+15:26:23	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/fonts/glyphicons-halflings-regular.svg (from rewebsotech.com/templates/domnoo/web/css/bootstrap.min.css)
+15:28:07	Warning: 	Retry after error 409 () at link rewebsotech.com/templates/domnoo/web/contact.html (from rewebsotech.com/templates/domnoo/web/home.html)
+15:28:07	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/css/..fonts/Flaticon.eot? (from rewebsotech.com/templates/domnoo/web/css/flaticon.css)
+15:28:07	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/css/..fonts/Flaticon.ttf (from rewebsotech.com/templates/domnoo/web/css/flaticon.css)
+15:28:07	Error: 	"Not Found" (404) at link rewebsotech.com/templates/domnoo/web/css/owl.video.play.png (from rewebsotech.com/templates/domnoo/web/css/owl.carousel.min.css)
+15:28:07	Error: 	"" (409) after 2 retries at link rewebsotech.com/templates/domnoo/web/contact.html (from rewebsotech.com/templates/domnoo/web/home.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 10 seconds : 223 links scanned, 210 files written (15229152 bytes overall) [14859878 bytes received at 27017 bytes/sec], 603491 bytes transferred using HTTP compression in 21 files, ratio 21%
+(10 errors, 2 warnings, 0 messages)
